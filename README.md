@@ -2,6 +2,9 @@
 
 # StellarTerm ecosystem - [client](https://stellarterm.com/) | [api](https://github.com/stellarterm/stellarterm-api)
 
+## Custom Stellar Based Chain Intergration
+Coming soon...
+
 ## Web Client
 StellarTerm is a web based trading client for use on the Stellar network. This client aims to make it easy and safe for users of any skill level to trade on the Stellar network by making a clear and secure user interface. Try it out at [https://stellarterm.com](https://stellarterm.com/)
 
